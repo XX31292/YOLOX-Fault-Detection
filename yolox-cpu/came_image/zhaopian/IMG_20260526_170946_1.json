@@ -1,0 +1,64 @@
+{
+  "version": "2.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sensor_damage",
+      "points": [
+        [
+          436.0000000000002,
+          609.1111111111111
+        ],
+        [
+          1613.777777777778,
+          609.1111111111111
+        ],
+        [
+          1613.777777777778,
+          1920.2222222222222
+        ],
+        [
+          436.0000000000002,
+          1920.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          2136.0,
+          225.77777777777771
+        ],
+        [
+          2497.1111111111113,
+          225.77777777777771
+        ],
+        [
+          2497.1111111111113,
+          520.2222222222222
+        ],
+        [
+          2136.0,
+          520.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20260526_170946_1.jpg",
+  "imageData": null,
+  "imageHeight": 4096,
+  "imageWidth": 3072
+}

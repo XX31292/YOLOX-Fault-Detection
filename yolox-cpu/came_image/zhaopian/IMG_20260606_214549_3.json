@@ -1,0 +1,118 @@
+{
+  "version": "2.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          2493.8333333333335,
+          1486.0
+        ],
+        [
+          2864.666666666667,
+          1486.0
+        ],
+        [
+          2864.666666666667,
+          1906.8333333333333
+        ],
+        [
+          2493.8333333333335,
+          1906.8333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          3573.0,
+          1581.8333333333333
+        ],
+        [
+          3981.333333333334,
+          1581.8333333333333
+        ],
+        [
+          3981.333333333334,
+          1977.6666666666667
+        ],
+        [
+          3573.0,
+          1977.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          3431.3333333333335,
+          619.3333333333333
+        ],
+        [
+          3781.3333333333335,
+          619.3333333333333
+        ],
+        [
+          3781.3333333333335,
+          965.1666666666666
+        ],
+        [
+          3431.3333333333335,
+          965.1666666666666
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "sensor_damage",
+      "points": [
+        [
+          1127.1666666666665,
+          94.33333333333327
+        ],
+        [
+          2139.666666666667,
+          94.33333333333327
+        ],
+        [
+          2139.666666666667,
+          931.8333333333333
+        ],
+        [
+          1127.1666666666665,
+          931.8333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20260606_214549_3.jpg",
+  "imageData": null,
+  "imageHeight": 3072,
+  "imageWidth": 4096
+}

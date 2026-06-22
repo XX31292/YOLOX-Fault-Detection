@@ -1,0 +1,118 @@
+{
+  "version": "2.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          2498.0,
+          1498.5
+        ],
+        [
+          3039.666666666667,
+          1498.5
+        ],
+        [
+          3039.666666666667,
+          1952.6666666666667
+        ],
+        [
+          2498.0,
+          1952.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          3568.8333333333335,
+          1561.0
+        ],
+        [
+          4002.166666666667,
+          1561.0
+        ],
+        [
+          4002.166666666667,
+          1981.8333333333333
+        ],
+        [
+          3568.8333333333335,
+          1981.8333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          3406.3333333333335,
+          611.0
+        ],
+        [
+          3760.5,
+          611.0
+        ],
+        [
+          3760.5,
+          969.3333333333333
+        ],
+        [
+          3406.3333333333335,
+          969.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "sensor_damage",
+      "points": [
+        [
+          1060.5,
+          65.16666666666661
+        ],
+        [
+          2168.8333333333335,
+          65.16666666666661
+        ],
+        [
+          2168.8333333333335,
+          906.8333333333333
+        ],
+        [
+          1060.5,
+          906.8333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20260606_214549_1.jpg",
+  "imageData": null,
+  "imageHeight": 3072,
+  "imageWidth": 4096
+}

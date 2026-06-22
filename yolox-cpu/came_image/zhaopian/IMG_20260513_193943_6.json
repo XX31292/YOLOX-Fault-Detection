@@ -1,0 +1,91 @@
+{
+  "version": "2.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sensor_damage",
+      "points": [
+        [
+          1402.1666666666665,
+          1611.0
+        ],
+        [
+          2273.0,
+          1611.0
+        ],
+        [
+          2273.0,
+          2402.666666666667
+        ],
+        [
+          1402.1666666666665,
+          2402.666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          2460.5,
+          477.66666666666663
+        ],
+        [
+          2677.166666666667,
+          477.66666666666663
+        ],
+        [
+          2677.166666666667,
+          727.6666666666666
+        ],
+        [
+          2460.5,
+          727.6666666666666
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          2635.5,
+          135.99999999999997
+        ],
+        [
+          2440.0,
+          135.99999999999997
+        ],
+        [
+          2440,
+          0
+        ],
+        [
+          2635.5,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20260513_193943_6.jpg",
+  "imageData": null,
+  "imageHeight": 3072,
+  "imageWidth": 4096
+}

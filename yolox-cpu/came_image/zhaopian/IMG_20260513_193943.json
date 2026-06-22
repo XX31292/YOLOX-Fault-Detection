@@ -1,0 +1,91 @@
+{
+  "version": "2.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          2556.3333333333335,
+          148.49999999999997
+        ],
+        [
+          2369.0,
+          148.49999999999997
+        ],
+        [
+          2369,
+          0
+        ],
+        [
+          2556.3333333333335,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          2602.166666666667,
+          706.8333333333333
+        ],
+        [
+          2389.666666666667,
+          706.8333333333333
+        ],
+        [
+          2389.666666666667,
+          502.66666666666663
+        ],
+        [
+          2602.166666666667,
+          502.66666666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "sensor_damage",
+      "points": [
+        [
+          2248.0,
+          2423.5000000000005
+        ],
+        [
+          1364.6666666666665,
+          2423.5000000000005
+        ],
+        [
+          1364.6666666666665,
+          1698.5
+        ],
+        [
+          2248.0,
+          1698.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20260513_193943.jpg",
+  "imageData": null,
+  "imageHeight": 3072,
+  "imageWidth": 4096
+}

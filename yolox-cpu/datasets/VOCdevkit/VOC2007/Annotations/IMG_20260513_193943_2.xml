@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>D:\yolox-cpu\came_image\Annotations</folder>
+  <filename>IMG_20260513_193943_2.jpg</filename>
+  <size>
+    <width>4096</width>
+    <height>3072</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sensor_damage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1385.5</xmin>
+      <ymin>1748.5</ymin>
+      <xmax>2252.166666666667</xmax>
+      <ymax>2519.3333333333335</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red_warning</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2427.166666666667</xmin>
+      <ymin>531.8333333333333</ymin>
+      <xmax>2631.3333333333335</xmax>
+      <ymax>769.3333333333333</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red_warning</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2373.0</xmin>
+      <ymin>35.99999999999994</ymin>
+      <xmax>2606.3333333333335</xmax>
+      <ymax>256.83333333333326</ymax>
+    </bndbox>
+  </object>
+</annotation>

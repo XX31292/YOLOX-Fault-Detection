@@ -1,0 +1,19 @@
+# TODO: Update with exact module version
+# pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+numpy
+torch>=1.7
+opencv_python
+loguru
+tqdm
+torchvision
+thop
+ninja
+tabulate
+psutil
+tensorboard
+
+# verified versions
+# pycocotools corresponds to https://github.com/ppwwyyxx/cocoapi
+pycocotools>=2.0.2
+onnx>=1.13.0
+onnx-simplifier==0.4.10

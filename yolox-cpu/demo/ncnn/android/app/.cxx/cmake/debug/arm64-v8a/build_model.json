@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android",
+      "sdkFolder": "E:\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app",
+      "makeFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\.cxx",
+      "cxxFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx",
+      "ndkFolder": "E:\\sdk\\ndk\\23.0.7599858",
+      "ndkVersion": "23.0.7599858",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\AI_Code\\02-yolox\\YOLOX-main\\demo\\ncnn\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

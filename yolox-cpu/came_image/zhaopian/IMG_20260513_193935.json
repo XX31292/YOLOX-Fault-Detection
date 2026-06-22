@@ -1,0 +1,145 @@
+{
+  "version": "2.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          402.66666666666674,
+          14.666666666666593
+        ],
+        [
+          724.8888888888889,
+          14.666666666666593
+        ],
+        [
+          724.8888888888889,
+          270.2222222222222
+        ],
+        [
+          402.66666666666674,
+          270.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          1030.4444444444446,
+          9.111111111111036
+        ],
+        [
+          1319.3333333333337,
+          9.111111111111036
+        ],
+        [
+          1319.3333333333337,
+          342.4444444444444
+        ],
+        [
+          1030.4444444444446,
+          342.4444444444444
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          1869.3333333333337,
+          175.77777777777771
+        ],
+        [
+          2208.2222222222226,
+          175.77777777777771
+        ],
+        [
+          2208.2222222222226,
+          531.3333333333334
+        ],
+        [
+          1869.3333333333337,
+          531.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "red_warning",
+      "points": [
+        [
+          1913.777777777778,
+          859.1111111111111
+        ],
+        [
+          2224.8888888888887,
+          859.1111111111111
+        ],
+        [
+          2224.8888888888887,
+          1098.0
+        ],
+        [
+          1913.777777777778,
+          1098.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "sensor_damage",
+      "points": [
+        [
+          413.7777777777778,
+          1998.0
+        ],
+        [
+          1308.2222222222224,
+          1998.0
+        ],
+        [
+          1308.2222222222224,
+          2759.111111111111
+        ],
+        [
+          413.7777777777778,
+          2759.111111111111
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "IMG_20260513_193935.jpg",
+  "imageData": null,
+  "imageHeight": 4096,
+  "imageWidth": 3072
+}

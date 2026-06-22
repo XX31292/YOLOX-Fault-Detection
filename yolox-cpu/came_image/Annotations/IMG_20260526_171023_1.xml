@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>D:\yolox-cpu\came_image\Annotations</folder>
+  <filename>IMG_20260526_171023_1.jpg</filename>
+  <size>
+    <width>3072</width>
+    <height>4096</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sensor_damage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>341.55555555555566</xmin>
+      <ymin>1892.4444444444446</ymin>
+      <xmax>1608.2222222222224</xmax>
+      <ymax>3353.555555555555</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red_warning</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2530.4444444444443</xmin>
+      <ymin>1464.6666666666667</ymin>
+      <xmax>2174.8888888888887</xmax>
+      <ymax>1036.888888888889</ymax>
+    </bndbox>
+  </object>
+</annotation>
